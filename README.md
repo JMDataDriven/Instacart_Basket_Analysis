@@ -7,12 +7,12 @@ Instacart, an online grocery store that operates through an app, currently has v
 2. Are there partiular times of the day when people spend the most money?
 3. Instacart has a lot of products with different price tags. How can product price ranges enhance marketing strategies?
 4. Are there certain types of products that are more popular than others?
-5. What is the distribution among users in regards to their brand loyalty (i.e., how often do they return to instacart)?
+5. What is the distribution among users in regard to their brand loyalty (i.e., how often do they return to instacart)?
 6. Are there differences in ordering habits based on a customer's loyalty status?
 7. Are there differences in ordering habits based on a customer's region?
 8. Is there a connection between age and family status in terms of ordering habits?
 9. What different classifications does the demographic information suggest (i.e., age, income, certain types of goods, family status)?
-10. What differences can you find in ordering habits of differenct customer profiles?
+10. What differences can you find in ordering habits of different customer profiles?
 
 ## Data Source:
 Utilized a number of open-source data sets through Instacart. 
